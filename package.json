@@ -1,5 +1,5 @@
 {
-	"name": "Sumi Sakurasawa",
+	"name": "fenix",
 	"version": "6.0.0",
 	"description": "Simple WhatsApp Bot Multi Device",
 	"main": "main.js",
@@ -26,16 +26,16 @@
 		"MD",
 		"baileys-md"
 	],
-	"homepage": "https://github.com/StarlightsTeam/Sumi-Sakurasawa",
+	"homepage": "",
 	"author": {
-		"name": "おDanịel.xyz⁩"
+		"name": "kenn"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/StarlightsTeam/Sumi-Sakurasawa.git"
+		"url": ""
 	},
 	"bugs": {
-		"url": "https://github.com/StarlightsTeam/Sumi-Sakurasawa/issues"
+		"url": ""
 	},
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
